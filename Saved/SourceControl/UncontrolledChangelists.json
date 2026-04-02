@@ -5,16 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Lvl_Cube.umap",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Level/Lvl_Cube.umap",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/AMPHITRITE_decimate_to_Unreal.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/AMPHITRITE_opti_ZB.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/CHEVAL_MARLY_decimate_to_Unreal.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/FemaleHead.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/FemaleHead1.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/UMesh_ZB_CHEVAL_MARLY1_1.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/eyes.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Static_Mesh/eyes1.uasset"
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Materials/MPC_PlayerBubble.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Materials/M_LimitWall.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraFluids/Content/Templates/Gas/3D/Systems/Grid3D_Gas_ColoredSmoke.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NS_Smoke.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NS_Smoke_BakedAtlas_Texture2D_0.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NS_Autre.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Materials/M_Niagara.uasset",
+				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NewNiagaraSystem.uasset"
 			]
 		}
 	]
