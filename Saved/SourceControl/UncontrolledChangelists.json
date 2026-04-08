@@ -5,11 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraFluids/Content/Templates/Gas/3D/Systems/Grid3D_Gas_ColoredSmoke.uasset",
+				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset",
+				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX_Light/Content/Niagara/FXS_Stars_Environment.uasset",
+				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX_Light/Content/Niagara/FXS_Comet.uasset",
+				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX_Light/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/88/7TIOKSPLFW0P9BHD982K7U.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/Materials/MPC_PlayerBubble.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/Materials/M_LimitWall.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraFluids/Content/Templates/Gas/3D/Systems/Grid3D_Gas_ColoredSmoke.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NS_Smoke.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NS_Smoke_BakedAtlas_Texture2D_0.uasset",
 				"D:/Jade_Unreal_Project/FX_Exercice/Content/Niagara/NS_Autre.uasset",
@@ -20,8 +24,7 @@
 				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Niagara/FXS_Comet.uasset",
 				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RT/IXEY1360XCU56A5NE99YOE.uasset",
 				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/Niagara/BP_Comet_Curve.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JS/OBZXY7I3Z5S4YHCA4CY15T.uasset",
-				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset"
+				"C:/Users/game/Documents/GitHub/TERRENG_Jade_VFX/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JS/OBZXY7I3Z5S4YHCA4CY15T.uasset"
 			]
 		}
 	]
